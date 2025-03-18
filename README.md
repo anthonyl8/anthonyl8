@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Anthony
+## Hi there 👋! I'm Anthony.
 
 <!--
 **anthonyl8/anthonyl8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
